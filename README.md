@@ -19,10 +19,3 @@ Analyze and visualize retail sales data to track KPIs: total sales, profit, orde
 - Tableau & Power BI (dashboards)
 - GitHub (version control)
 
-## 📅 Timeline
-- Day 1: Setup ✅
-- Day 2–3: Data Cleaning
-- Day 4: Analysis (SQL + Python)
-- Day 5–6: Dashboard (Tableau/Power BI)
-- Day 7: Reporting
-
