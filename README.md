@@ -9,13 +9,13 @@ Analyze and visualize retail sales data to track KPIs: total sales, profit, orde
 ├── excel/ - Cleaned data  
 ├── sql/ - MySQL queries  
 ├── python/ - EDA & stats  
-├── dashboard/ - Tableau & Power BI  
+├── dashboard/ - Tableau 
 ├── report/ - Summary PDF
 
 ## 🛠️ Tools Used
 - Excel (data cleaning)
 - MySQL (data storage & queries)
 - Python (EDA, stats)
-- Tableau & Power BI (dashboards)
+- Tableau (dashboards)
 - GitHub (version control)
 
